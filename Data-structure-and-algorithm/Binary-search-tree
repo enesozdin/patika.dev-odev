@@ -1,0 +1,23 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+Root:7
+Rootun solu:5
+5 in solu:1
+Rootun sağı:8
+1 in sağı:3
+5 in sağı:6
+1 in solu:0
+8 in sağı:9
+3 ün sağı:4
+3 ün solu:2
+
+
+                 7 
+              /    \
+            5        8
+          /   \        \
+         1     6        9
+        / \                
+       0   3               
+          /  \
+         2    4
